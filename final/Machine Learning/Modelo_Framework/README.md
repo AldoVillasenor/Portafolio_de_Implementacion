@@ -1,8 +1,6 @@
 ### Arbol de Desición para clasificación de tumores en malignos y benignos
 Entrenamiento y evaluación de un modelo de machine learning para la clasificación  de tumores en malignos y benignos.
-Se utiliza un Árbol de Desición, el cual fue implementado utilizando el framework de scikit learn. Se incluye un jupyter notevook el cual funge como reporte y codigo implementado
-
-Se incluye el código en el reporte y se agregan graficas para analizar sesgo, varianza y ajuste del modelo.
+Se utiliza un Árbol de Desición, el cual fue implementado utilizando el framework de scikit learn. Se incluye un jupyter notevook el cual funge como reporte y codigo implementado. Se incluye el código en el reporte y se agregan graficas para analizar sesgo, varianza y ajuste del modelo.
 
 La base de datos fue obtenida de UCI Machine Learning Repository 
 URL: https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
