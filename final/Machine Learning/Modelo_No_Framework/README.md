@@ -1,7 +1,6 @@
-### A01637907 Arbol de_Desicion
+### Regrasión Logística para clasificación de tumores en malignos y benignos
 Entrenamiento y evaluación de un modelo de machine learning para la clasificación  de tumores en malignos y benignos.
-Se utiliza un Árbol de de Desición utilizando como framework sci-kit learn y se realizan pruebas con el set de training y testing.
-
+Se utiliza una regresión logística implementada sin el uso de frameworks para machine learning.
 La base de datos fue obtenida de UCI Machine Learning Repository 
 URL: https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 
