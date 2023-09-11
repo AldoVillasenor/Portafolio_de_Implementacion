@@ -1,6 +1,6 @@
 ### Regresión Logística para clasificación de tumores en malignos y benignos
 Entrenamiento y evaluación de un modelo de machine learning para la clasificación  de tumores en malignos y benignos.
-Se utiliza una regresión logística implementada sin el uso de frameworks para machine learning.
+Se utiliza una regresión logística implementada sin el uso de frameworks para machine learning. CAMBIOS SUGERIDOS POR RETROALIMENTACIÓN: Se incluye un readme con información de la base de datos, así como un link al dataset, se presenta un jupyter notebook como reporte.
 La base de datos fue obtenida de UCI Machine Learning Repository 
 URL: https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 
